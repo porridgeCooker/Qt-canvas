@@ -1,2 +1,2 @@
 # Qt-canvas
-A canvs gadget, use double buffering on Qwidget.
+A canvas gadget, use double buffering on Qwidget.
